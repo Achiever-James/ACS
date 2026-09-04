@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7b2cbf"/><stop offset="1" stop-color="#071b3d"/></linearGradient></defs>
+<rect width="900" height="600" rx="32" fill="url(#g)"/>
+<circle cx="770" cy="90" r="170" fill="#f6c445" opacity=".15"/><circle cx="110" cy="560" r="190" fill="#f6c445" opacity=".1"/>
+<rect x="45" y="45" width="810" height="510" rx="24" fill="none" stroke="#f6c445" stroke-width="3" opacity=".8"/>
+<text x="75" y="105" font-family="Arial" font-size="26" font-weight="700" fill="#f6c445" letter-spacing="5">PHOTO EDITING</text>
+<text x="75" y="265" font-family="Arial" font-size="62" font-weight="900" fill="white">BEFORE  →  AFTER</text>
+<text x="75" y="325" font-family="Arial" font-size="28" font-weight="700" fill="#f6c445">RETOUCH • ENHANCE • CLEAN</text>
+<rect x="75" y="385" width="250" height="55" rx="27" fill="#f6c445"/>
+<text x="200" y="421" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#101828">ACHIEVER</text>
+<text x="75" y="500" font-family="Arial" font-size="22" fill="white">Creativity is our passion.</text>
+</svg>
